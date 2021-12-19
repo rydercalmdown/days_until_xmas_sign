@@ -3,7 +3,7 @@ PI_USERNAME=pi
 
 .PHONY: run
 run:
-	@cd src && python3 app.py
+	@cd src && python3 display_controller.py
 
 .PHONY: install
 install:
