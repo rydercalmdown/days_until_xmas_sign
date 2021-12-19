@@ -1,5 +1,7 @@
 #!/bin/bash
 
+cd ../
+
 echo "Installing base dependencies"
 sudo apt-get update
 sudo apt-get install -y \
