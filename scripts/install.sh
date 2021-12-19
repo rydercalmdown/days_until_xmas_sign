@@ -15,4 +15,4 @@ sudo apt-get install -y \
     libtiff5 \
     libatlas-base-dev
 
-sudo python3 -m pip install src/requirements.txt
+sudo python3 -m pip install -r src/requirements.txt
