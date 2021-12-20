@@ -2,3 +2,4 @@ rgb-matrix.sh
 **/.DS_Store
 *.pyc
 env
+rpi-rgb-led-matrix
